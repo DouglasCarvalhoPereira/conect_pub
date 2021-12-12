@@ -1,2 +1,2 @@
-# conect_pub
+# Conect Pub
 Cardápio para restaurante!
